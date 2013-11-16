@@ -67,18 +67,6 @@
 
 
 
-#########################################################################################
-# Example 5
-#########################################################################################
-
-# 2.0.0p247 :001 >   "A" + 1
-
-# TypeError: no implicit conversion of Fixnum into String
-#   from (irb):152:in `+'
-#   from (irb):152
-#   from /Users/joe/.rvm/rubies/ruby-2.0.0-p0/bin/irb:16:in `<main>'
-
-
 
 #########################################################################################
 # Example 6
@@ -96,7 +84,7 @@
 #
 # What TWO ways can you enter someting into irb to yield a result of "A4" ?
 #
-# ( In chapter 2 you will do this at least six different ways.)
+# ( In chapter 2 you will do this at least SIX different ways. ) 
 #########################################################################################
 
 
